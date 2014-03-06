@@ -1,0 +1,49 @@
+{ "type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+		-105.01621,
+		39.57422
+				]
+			},
+"properties": 	{
+	"cycleID": 981209812098,
+	"measurements": [
+	{
+	"timestamp": "2012-12-12 13:55:29 +0100",
+	"sensor_values": [
+	{
+	"sensor_type": "snow",
+	"sensor_value": false
+	},
+	{
+	"sensor_type": "light",
+	"sensor_value": 0
+	},
+	{
+	"sensor_type": "temperature",
+	"sensor_value": 18.4
+	},
+	{
+	"sensor_type": "humidity",
+	"sensor_value": 63.7
+	},
+	{
+	"sensor_type": "co2",
+	"sensor_value": 390
+	},
+	{
+	"sensor_type": "nox",
+	"sensor_value": 3045
+	}
+	]
+	}
+	],
+	"hazards": [
+	{
+	"hazard_type": "glass",
+	"timestamp": "2012-12-12 12:5"
+	}
+	]
+		}
+}
