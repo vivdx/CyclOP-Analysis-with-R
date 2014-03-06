@@ -15,12 +15,12 @@ library(RCurl)
 For PostgreSQL 
 library(RPostgreSQL)
 
-Analyze Sensor Data
-? Temperature
-? Humidity
-? Noise
-? no2
-? co
-? g
-? Dust
-? GPX coordinates
+Analyse Sensor Data:
+ Temperature
+ Humidity
+ Noise
+ no2
+ co
+ g
+ Dust
+ GPX coordinates
