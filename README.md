@@ -24,3 +24,6 @@ Analyse Sensor Data:
  g
  Dust
  GPX coordinates
+ 
+ 
+ Contributor: kasstsouvala
